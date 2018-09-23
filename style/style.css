@@ -61,8 +61,8 @@ body {
 }
 
 .padded {
-padding: 70px 0;
-/*padding-bottom: 400px;*/
+  padding: 70px 0;
+  /*padding-bottom: 400px;*/
 }
 
 .sameline {
@@ -70,65 +70,65 @@ padding: 70px 0;
     background-color: green !important;
     z-index: 10;*/
     /*align-items: flex-end;*/
-}
+  }
 
-a.alignerenpx {
-  margin-top: 38px;
-  /*border: 1px solid red;*/
-}
+  a.alignerenpx {
+    margin-top: 38px;
+    /*border: 1px solid red;*/
+  }
 
-.bas {
-  /*background-color: green;*/
-}
+  .bas {
+    /*background-color: green;*/
+  }
 
-hr {
-  border-top: 1px solid #c1b8b8;
-  margin: 35px 0px;
-}
+  hr {
+    border-top: 1px solid #c1b8b8;
+    margin: 35px 0px;
+  }
 
-.banner3 {
-  color: black;
-  text-align: center;
-  background-color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+  .banner3 {
+    color: black;
+    text-align: center;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
-.ema {
-  color: #449D44;
-}
+  .ema {
+    color: #449D44;
+  }
 
-.tel {
-  color: #31B0D5;
-}
+  .tel {
+    color: #31B0D5;
+  }
 
-.pied {
-  padding: 20px 0;
-}
+  .pied {
+    padding: 20px 0;
+  }
 
-.pied p {
-  border: 1px solid black;
-}
+  .pied p {
+    border: 1px solid black;
+  }
 
-p.ml {
-  font-size: 70%;
-  /*justify-content: center;*/
-  /*display: flex-end;*/
-  /*text-align: center;*/
-  /*padding-bottom: 30px;*/
-  /*max-width: 800px;*/
-  /*margin: auto;*/
-}
+  p.ml {
+    font-size: 70%;
+    /*justify-content: center;*/
+    /*display: flex-end;*/
+    /*text-align: center;*/
+    /*padding-bottom: 30px;*/
+    /*max-width: 800px;*/
+    /*margin: auto;*/
+  }
 
-.barp {
-  margin-top: 100px;
-}
+  .barp {
+    margin-top: 100px;
+  }
 
-.piml a {
+  .piml a {
 /*  margin: 0 auto;
-  width: 800px;*/
-  color: black;
+width: 800px;*/
+color: black;
 }
 
 .paddedh {
@@ -137,9 +137,9 @@ p.ml {
 
 @media (max-width: 768px) {
   a.alignerenpx {
-  margin-top: 0px;
-  /*border: 1px solid yellow;*/
-
-     }
+    margin-top: 0px;
+    /*border: 1px solid yellow;*/
 
   }
+
+}
